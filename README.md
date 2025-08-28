@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shiva9555
+- 👋 Hi, I’m @kuruva siva
 - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
@@ -7,6 +7,6 @@
 - ⚡ Fun fact: ...
 
 <!---
-Shiva9555/Shiva9555 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+kuruva siva/kuruva Shivais a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
